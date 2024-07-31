@@ -1,0 +1,18 @@
+Field,Description
+State,State name
+County,County name
+Urban,Flag for urban tract
+POP2010,Population count from 2010 census
+OHU2010,Occupied housing unit count from 2010 census
+lapophalf,Population count beyond 1/2 mile from supermarket
+lapophalfshare,Share of tract population that are beyond 1/2 mile from supermarket
+lalowihalf,Low income population count beyond 1/2 mile from supermarket
+lalowihalfshare,Share of tract population that are low income individuals beyond 1/2 mile from supermarket
+lahunvhalf,Housing units without vehicle count beyond 1/2 mile from supermarket
+lahunvhalfshare,Share of tract housing units that are without vehicle and beyond 1/2 mile from supermarket
+lapop1,Population count beyond 1 mile from supermarket
+lapop1share,Share of tract population that are beyond 1 mile from supermarket
+lalowi1,Low income population count beyond 1 mile from supermarket
+lalowi1share,Share of tract population that are low income individuals beyond 1 mile from supermarket
+lahunv1,Housing units without vehicle count beyond 1 mile from supermarket
+lahunv1share,Share of tract housing units that are without vehicle and beyond 1 mile from supermarket
