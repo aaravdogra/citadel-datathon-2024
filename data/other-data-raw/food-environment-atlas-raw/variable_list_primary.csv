@@ -1,0 +1,15 @@
+Category Name,Category Code,Subcategory Name,Variable Name,Variable Code,Geography,Units
+Access and Proximity to Grocery Store,ACCESS,Overall,"Population, low access to store, 2010",LACCESS_POP10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Overall,"Population, low access to store, 2015",LACCESS_POP15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Low income & low access to store, 2010",LACCESS_LOWI10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Low income & low access to store, 2015",LACCESS_LOWI15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Households, no car & low access to store, 2010",LACCESS_HHNV10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Households, no car & low access to store, 2015",LACCESS_HHNV15,CNTY10,Count
+Store Availability,STORES,Grocery,"Grocery stores, 2011",GROC11,CNTY10,Count
+Store Availability,STORES,Grocery,"Grocery stores, 2016",GROC16,CNTY10,Count
+Store Availability,STORES,Convenience,"Convenience stores, 2011",CONVS11,CNTY10,Count
+Store Availability,STORES,Convenience,"Convenience stores, 2016",CONVS16,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Fast-food,"Fast-food restaurants, 2011",FFR11,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Fast-food,"Fast-food restaurants, 2016",FFR16,CNTY10,Count
+Local Foods,LOCAL,Farmers' Markets,"Farmers' markets, 2013",FMRKT13,CNTY10,Count
+Local Foods,LOCAL,Farmers' Markets,"Farmers' markets, 2018",FMRKT18,CNTY10,Count
