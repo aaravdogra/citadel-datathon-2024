@@ -1,0 +1,715 @@
+State,Variable Name,Variable_Code,Value
+AK,"Convenience stores, 2011",CONVS11,177.0
+AK,"Convenience stores, 2016",CONVS16,173.0
+AK,"Fast-food restaurants, 2011",FFR11,385.0
+AK,"Fast-food restaurants, 2016",FFR16,421.0
+AK,"Farmers' markets, 2013",FMRKT13,31.0
+AK,"Farmers' markets, 2018",FMRKT18,38.0
+AK,"Grocery stores, 2011",GROC11,205.0
+AK,"Grocery stores, 2016",GROC16,215.0
+AK,"Households, no car & low access to store, 2010",LACCESS_HHNV10,13877.489633856
+AK,"Households, no car & low access to store, 2015",LACCESS_HHNV15,13515.923958215
+AK,"Low income & low access to store, 2010",LACCESS_LOWI10,59540.928699178
+AK,"Low income & low access to store, 2015",LACCESS_LOWI15,64994.543184344
+AK,"Population, low access to store, 2010",LACCESS_POP10,223495.137332074
+AK,"Population, low access to store, 2015",LACCESS_POP15,223550.111424862
+AL,"Convenience stores, 2011",CONVS11,3180.0
+AL,"Convenience stores, 2016",CONVS16,3237.0
+AL,"Fast-food restaurants, 2011",FFR11,3356.0
+AL,"Fast-food restaurants, 2016",FFR16,3822.0
+AL,"Farmers' markets, 2013",FMRKT13,141.0
+AL,"Farmers' markets, 2018",FMRKT18,139.0
+AL,"Grocery stores, 2011",GROC11,784.0
+AL,"Grocery stores, 2016",GROC16,757.0
+AL,"Households, no car & low access to store, 2010",LACCESS_HHNV10,58525.4787121
+AL,"Households, no car & low access to store, 2015",LACCESS_HHNV15,58199.873759300004
+AL,"Low income & low access to store, 2010",LACCESS_LOWI10,367290.1993372
+AL,"Low income & low access to store, 2015",LACCESS_LOWI15,378623.20017252
+AL,"Population, low access to store, 2010",LACCESS_POP10,1025391.93068185
+AL,"Population, low access to store, 2015",LACCESS_POP15,962910.8900031
+AR,"Convenience stores, 2011",CONVS11,1428.0
+AR,"Convenience stores, 2016",CONVS16,1512.0
+AR,"Fast-food restaurants, 2011",FFR11,1875.0
+AR,"Fast-food restaurants, 2016",FFR16,2014.0
+AR,"Farmers' markets, 2013",FMRKT13,93.0
+AR,"Farmers' markets, 2018",FMRKT18,109.0
+AR,"Grocery stores, 2011",GROC11,496.0
+AR,"Grocery stores, 2016",GROC16,480.0
+AR,"Households, no car & low access to store, 2010",LACCESS_HHNV10,35301.6285104
+AR,"Households, no car & low access to store, 2015",LACCESS_HHNV15,33671.43290351
+AR,"Low income & low access to store, 2010",LACCESS_LOWI10,245604.3438601
+AR,"Low income & low access to store, 2015",LACCESS_LOWI15,254969.89737745
+AR,"Population, low access to store, 2010",LACCESS_POP10,619650.0845178
+AR,"Population, low access to store, 2015",LACCESS_POP15,587921.0691545
+AZ,"Convenience stores, 2011",CONVS11,1940.0
+AZ,"Convenience stores, 2016",CONVS16,1903.0
+AZ,"Fast-food restaurants, 2011",FFR11,4107.0
+AZ,"Fast-food restaurants, 2016",FFR16,4585.0
+AZ,"Farmers' markets, 2013",FMRKT13,81.0
+AZ,"Farmers' markets, 2018",FMRKT18,91.0
+AZ,"Grocery stores, 2011",GROC11,804.0
+AZ,"Grocery stores, 2016",GROC16,786.0
+AZ,"Households, no car & low access to store, 2010",LACCESS_HHNV10,35297.5006927
+AZ,"Households, no car & low access to store, 2015",LACCESS_HHNV15,37853.3770755
+AZ,"Low income & low access to store, 2010",LACCESS_LOWI10,416946.10462
+AZ,"Low income & low access to store, 2015",LACCESS_LOWI15,482198.705737
+AZ,"Population, low access to store, 2010",LACCESS_POP10,1219018.834016
+AZ,"Population, low access to store, 2015",LACCESS_POP15,1254357.801496
+CA,"Convenience stores, 2011",CONVS11,8281.0
+CA,"Convenience stores, 2016",CONVS16,8949.0
+CA,"Fast-food restaurants, 2011",FFR11,26047.0
+CA,"Fast-food restaurants, 2016",FFR16,29995.0
+CA,"Farmers' markets, 2013",FMRKT13,760.0
+CA,"Farmers' markets, 2018",FMRKT18,755.0
+CA,"Grocery stores, 2011",GROC11,7912.0
+CA,"Grocery stores, 2016",GROC16,7874.0
+CA,"Households, no car & low access to store, 2010",LACCESS_HHNV10,82537.665023152
+CA,"Households, no car & low access to store, 2015",LACCESS_HHNV15,82950.549447283
+CA,"Low income & low access to store, 2010",LACCESS_LOWI10,1164227.5224219
+CA,"Low income & low access to store, 2015",LACCESS_LOWI15,1225949.4372309
+CA,"Population, low access to store, 2010",LACCESS_POP10,4594847.9390351
+CA,"Population, low access to store, 2015",LACCESS_POP15,4323349.5059707
+CO,"Convenience stores, 2011",CONVS11,1632.0
+CO,"Convenience stores, 2016",CONVS16,1616.0
+CO,"Fast-food restaurants, 2011",FFR11,3662.0
+CO,"Fast-food restaurants, 2016",FFR16,4098.0
+CO,"Farmers' markets, 2013",FMRKT13,157.0
+CO,"Farmers' markets, 2018",FMRKT18,161.0
+CO,"Grocery stores, 2011",GROC11,722.0
+CO,"Grocery stores, 2016",GROC16,798.0
+CO,"Households, no car & low access to store, 2010",LACCESS_HHNV10,24012.017137935
+CO,"Households, no car & low access to store, 2015",LACCESS_HHNV15,20638.538798248
+CO,"Low income & low access to store, 2010",LACCESS_LOWI10,290873.76711084
+CO,"Low income & low access to store, 2015",LACCESS_LOWI15,274704.31445279
+CO,"Population, low access to store, 2010",LACCESS_POP10,1061756.2107336
+CO,"Population, low access to store, 2015",LACCESS_POP15,944824.52681415
+CT,"Convenience stores, 2011",CONVS11,1132.0
+CT,"Convenience stores, 2016",CONVS16,1236.0
+CT,"Fast-food restaurants, 2011",FFR11,2127.0
+CT,"Fast-food restaurants, 2016",FFR16,2535.0
+CT,"Farmers' markets, 2013",FMRKT13,158.0
+CT,"Farmers' markets, 2018",FMRKT18,157.0
+CT,"Grocery stores, 2011",GROC11,764.0
+CT,"Grocery stores, 2016",GROC16,827.0
+CT,"Households, no car & low access to store, 2010",LACCESS_HHNV10,19993.617101
+CT,"Households, no car & low access to store, 2015",LACCESS_HHNV15,21689.07428
+CT,"Low income & low access to store, 2010",LACCESS_LOWI10,139156.547786
+CT,"Low income & low access to store, 2015",LACCESS_LOWI15,155237.46654
+CT,"Population, low access to store, 2010",LACCESS_POP10,1032347.05508
+CT,"Population, low access to store, 2015",LACCESS_POP15,1033866.2657100001
+DC,"Convenience stores, 2011",CONVS11,171.0
+DC,"Convenience stores, 2016",CONVS16,201.0
+DC,"Fast-food restaurants, 2011",FFR11,771.0
+DC,"Fast-food restaurants, 2016",FFR16,877.0
+DC,"Farmers' markets, 2013",FMRKT13,36.0
+DC,"Farmers' markets, 2018",FMRKT18,58.0
+DC,"Grocery stores, 2011",GROC11,174.0
+DC,"Grocery stores, 2016",GROC16,186.0
+DC,"Households, no car & low access to store, 2010",LACCESS_HHNV10,1872.741669
+DC,"Households, no car & low access to store, 2015",LACCESS_HHNV15,1227.166069
+DC,"Low income & low access to store, 2010",LACCESS_LOWI10,5764.584305
+DC,"Low income & low access to store, 2015",LACCESS_LOWI15,4728.931789
+DC,"Population, low access to store, 2010",LACCESS_POP10,16970.70565
+DC,"Population, low access to store, 2015",LACCESS_POP15,12688.2801
+DE,"Convenience stores, 2011",CONVS11,329.0
+DE,"Convenience stores, 2016",CONVS16,315.0
+DE,"Fast-food restaurants, 2011",FFR11,620.0
+DE,"Fast-food restaurants, 2016",FFR16,665.0
+DE,"Farmers' markets, 2013",FMRKT13,28.0
+DE,"Farmers' markets, 2018",FMRKT18,37.0
+DE,"Grocery stores, 2011",GROC11,152.0
+DE,"Grocery stores, 2016",GROC16,172.0
+DE,"Households, no car & low access to store, 2010",LACCESS_HHNV10,7808.075455
+DE,"Households, no car & low access to store, 2015",LACCESS_HHNV15,5524.152928
+DE,"Low income & low access to store, 2010",LACCESS_LOWI10,52510.089395
+DE,"Low income & low access to store, 2015",LACCESS_LOWI15,41974.736701
+DE,"Population, low access to store, 2010",LACCESS_POP10,230203.22663
+DE,"Population, low access to store, 2015",LACCESS_POP15,175386.2515
+FL,"Convenience stores, 2011",CONVS11,8182.0
+FL,"Convenience stores, 2016",CONVS16,8618.0
+FL,"Fast-food restaurants, 2011",FFR11,11471.0
+FL,"Fast-food restaurants, 2016",FFR16,12793.0
+FL,"Farmers' markets, 2013",FMRKT13,228.0
+FL,"Farmers' markets, 2018",FMRKT18,259.0
+FL,"Grocery stores, 2011",GROC11,3601.0
+FL,"Grocery stores, 2016",GROC16,3598.0
+FL,"Households, no car & low access to store, 2010",LACCESS_HHNV10,102808.63800924
+FL,"Households, no car & low access to store, 2015",LACCESS_HHNV15,115812.91624122
+FL,"Low income & low access to store, 2010",LACCESS_LOWI10,1228210.39974835
+FL,"Low income & low access to store, 2015",LACCESS_LOWI15,1347762.43477522
+FL,"Population, low access to store, 2010",LACCESS_POP10,4194766.79752492
+FL,"Population, low access to store, 2015",LACCESS_POP15,3986500.21291866
+GA,"Convenience stores, 2011",CONVS11,5655.0
+GA,"Convenience stores, 2016",CONVS16,6061.0
+GA,"Fast-food restaurants, 2011",FFR11,7018.0
+GA,"Fast-food restaurants, 2016",FFR16,8050.0
+GA,"Farmers' markets, 2013",FMRKT13,135.0
+GA,"Farmers' markets, 2018",FMRKT18,161.0
+GA,"Grocery stores, 2011",GROC11,1782.0
+GA,"Grocery stores, 2016",GROC16,1755.0
+GA,"Households, no car & low access to store, 2010",LACCESS_HHNV10,87599.67584111
+GA,"Households, no car & low access to store, 2015",LACCESS_HHNV15,95367.84622549
+GA,"Low income & low access to store, 2010",LACCESS_LOWI10,778932.6658595001
+GA,"Low income & low access to store, 2015",LACCESS_LOWI15,876198.394050439
+GA,"Population, low access to store, 2010",LACCESS_POP10,2449438.595518289
+GA,"Population, low access to store, 2015",LACCESS_POP15,2382760.851864288
+HI,"Convenience stores, 2011",CONVS11,435.0
+HI,"Convenience stores, 2016",CONVS16,421.0
+HI,"Fast-food restaurants, 2011",FFR11,1255.0
+HI,"Fast-food restaurants, 2016",FFR16,1286.0
+HI,"Farmers' markets, 2013",FMRKT13,97.0
+HI,"Farmers' markets, 2018",FMRKT18,98.0
+HI,"Grocery stores, 2011",GROC11,299.0
+HI,"Grocery stores, 2016",GROC16,295.0
+HI,"Households, no car & low access to store, 2010",LACCESS_HHNV10,6798.4067806
+HI,"Households, no car & low access to store, 2015",LACCESS_HHNV15,7094.27025575
+HI,"Low income & low access to store, 2010",LACCESS_LOWI10,78570.713677
+HI,"Low income & low access to store, 2015",LACCESS_LOWI15,94434.95014100001
+HI,"Population, low access to store, 2010",LACCESS_POP10,341839.1616
+HI,"Population, low access to store, 2015",LACCESS_POP15,364979.98179
+IA,"Convenience stores, 2011",CONVS11,1618.0
+IA,"Convenience stores, 2016",CONVS16,1582.0
+IA,"Fast-food restaurants, 2011",FFR11,1888.0
+IA,"Fast-food restaurants, 2016",FFR16,1990.0
+IA,"Farmers' markets, 2013",FMRKT13,227.0
+IA,"Farmers' markets, 2018",FMRKT18,229.0
+IA,"Grocery stores, 2011",GROC11,595.0
+IA,"Grocery stores, 2016",GROC16,599.0
+IA,"Households, no car & low access to store, 2010",LACCESS_HHNV10,21494.251324048
+IA,"Households, no car & low access to store, 2015",LACCESS_HHNV15,20615.249248063
+IA,"Low income & low access to store, 2010",LACCESS_LOWI10,178560.30499017
+IA,"Low income & low access to store, 2015",LACCESS_LOWI15,169972.36021687998
+IA,"Population, low access to store, 2010",LACCESS_POP10,598387.1781954
+IA,"Population, low access to store, 2015",LACCESS_POP15,566186.2557494
+ID,"Convenience stores, 2011",CONVS11,630.0
+ID,"Convenience stores, 2016",CONVS16,640.0
+ID,"Fast-food restaurants, 2011",FFR11,1021.0
+ID,"Fast-food restaurants, 2016",FFR16,1083.0
+ID,"Farmers' markets, 2013",FMRKT13,68.0
+ID,"Farmers' markets, 2018",FMRKT18,64.0
+ID,"Grocery stores, 2011",GROC11,237.0
+ID,"Grocery stores, 2016",GROC16,264.0
+ID,"Households, no car & low access to store, 2010",LACCESS_HHNV10,6263.032830201
+ID,"Households, no car & low access to store, 2015",LACCESS_HHNV15,7802.44007024
+ID,"Low income & low access to store, 2010",LACCESS_LOWI10,107604.1265282
+ID,"Low income & low access to store, 2015",LACCESS_LOWI15,110683.62128685
+ID,"Population, low access to store, 2010",LACCESS_POP10,332652.15358559997
+ID,"Population, low access to store, 2015",LACCESS_POP15,316789.8760003
+IL,"Convenience stores, 2011",CONVS11,4099.0
+IL,"Convenience stores, 2016",CONVS16,4290.0
+IL,"Fast-food restaurants, 2011",FFR11,9178.0
+IL,"Fast-food restaurants, 2016",FFR16,10145.0
+IL,"Farmers' markets, 2013",FMRKT13,338.0
+IL,"Farmers' markets, 2018",FMRKT18,338.0
+IL,"Grocery stores, 2011",GROC11,2830.0
+IL,"Grocery stores, 2016",GROC16,2770.0
+IL,"Households, no car & low access to store, 2010",LACCESS_HHNV10,63685.80552301
+IL,"Households, no car & low access to store, 2015",LACCESS_HHNV15,62896.35370132
+IL,"Low income & low access to store, 2010",LACCESS_LOWI10,554467.191730264
+IL,"Low income & low access to store, 2015",LACCESS_LOWI15,573011.98829881
+IL,"Population, low access to store, 2010",LACCESS_POP10,2430237.027408455
+IL,"Population, low access to store, 2015",LACCESS_POP15,2295067.0904144
+IN,"Convenience stores, 2011",CONVS11,2458.0
+IN,"Convenience stores, 2016",CONVS16,2639.0
+IN,"Fast-food restaurants, 2011",FFR11,4438.0
+IN,"Fast-food restaurants, 2016",FFR16,4812.0
+IN,"Farmers' markets, 2013",FMRKT13,172.0
+IN,"Farmers' markets, 2018",FMRKT18,195.0
+IN,"Grocery stores, 2011",GROC11,1025.0
+IN,"Grocery stores, 2016",GROC16,997.0
+IN,"Households, no car & low access to store, 2010",LACCESS_HHNV10,49592.57710513
+IN,"Households, no car & low access to store, 2015",LACCESS_HHNV15,56448.59733012
+IN,"Low income & low access to store, 2010",LACCESS_LOWI10,409497.178256603
+IN,"Low income & low access to store, 2015",LACCESS_LOWI15,449234.676979181
+IN,"Population, low access to store, 2010",LACCESS_POP10,1463527.317132276
+IN,"Population, low access to store, 2015",LACCESS_POP15,1414337.548339151
+KS,"Convenience stores, 2011",CONVS11,1037.0
+KS,"Convenience stores, 2016",CONVS16,986.0
+KS,"Fast-food restaurants, 2011",FFR11,1953.0
+KS,"Fast-food restaurants, 2016",FFR16,2056.0
+KS,"Farmers' markets, 2013",FMRKT13,95.0
+KS,"Farmers' markets, 2018",FMRKT18,119.0
+KS,"Grocery stores, 2011",GROC11,484.0
+KS,"Grocery stores, 2016",GROC16,511.0
+KS,"Households, no car & low access to store, 2010",LACCESS_HHNV10,18551.184811864
+KS,"Households, no car & low access to store, 2015",LACCESS_HHNV15,19085.729290233
+KS,"Low income & low access to store, 2010",LACCESS_LOWI10,236086.94586541998
+KS,"Low income & low access to store, 2015",LACCESS_LOWI15,236076.24704654
+KS,"Population, low access to store, 2010",LACCESS_POP10,751916.27786595
+KS,"Population, low access to store, 2015",LACCESS_POP15,679162.5260147
+KY,"Convenience stores, 2011",CONVS11,2161.0
+KY,"Convenience stores, 2016",CONVS16,2061.0
+KY,"Fast-food restaurants, 2011",FFR11,3005.0
+KY,"Fast-food restaurants, 2016",FFR16,3179.0
+KY,"Farmers' markets, 2013",FMRKT13,129.0
+KY,"Farmers' markets, 2018",FMRKT18,132.0
+KY,"Grocery stores, 2011",GROC11,834.0
+KY,"Grocery stores, 2016",GROC16,796.0
+KY,"Households, no car & low access to store, 2010",LACCESS_HHNV10,52343.76861254
+KY,"Households, no car & low access to store, 2015",LACCESS_HHNV15,55184.95346817
+KY,"Low income & low access to store, 2010",LACCESS_LOWI10,209144.215029709
+KY,"Low income & low access to store, 2015",LACCESS_LOWI15,242253.710015096
+KY,"Population, low access to store, 2010",LACCESS_POP10,667690.561416145
+KY,"Population, low access to store, 2015",LACCESS_POP15,694772.210724429
+LA,"Convenience stores, 2011",CONVS11,2646.0
+LA,"Convenience stores, 2016",CONVS16,2622.0
+LA,"Fast-food restaurants, 2011",FFR11,3050.0
+LA,"Fast-food restaurants, 2016",FFR16,3363.0
+LA,"Farmers' markets, 2013",FMRKT13,67.0
+LA,"Farmers' markets, 2018",FMRKT18,85.0
+LA,"Grocery stores, 2011",GROC11,1008.0
+LA,"Grocery stores, 2016",GROC16,945.0
+LA,"Households, no car & low access to store, 2010",LACCESS_HHNV10,58088.51112903
+LA,"Households, no car & low access to store, 2015",LACCESS_HHNV15,53521.23994849
+LA,"Low income & low access to store, 2010",LACCESS_LOWI10,440418.727408
+LA,"Low income & low access to store, 2015",LACCESS_LOWI15,431879.2702371
+LA,"Population, low access to store, 2010",LACCESS_POP10,1132617.3174094
+LA,"Population, low access to store, 2015",LACCESS_POP15,1060387.783221
+MA,"Convenience stores, 2011",CONVS11,2709.0
+MA,"Convenience stores, 2016",CONVS16,3055.0
+MA,"Fast-food restaurants, 2011",FFR11,4709.0
+MA,"Fast-food restaurants, 2016",FFR16,5124.0
+MA,"Farmers' markets, 2013",FMRKT13,291.0
+MA,"Farmers' markets, 2018",FMRKT18,325.0
+MA,"Grocery stores, 2011",GROC11,1293.0
+MA,"Grocery stores, 2016",GROC16,1383.0
+MA,"Households, no car & low access to store, 2010",LACCESS_HHNV10,40893.65374786
+MA,"Households, no car & low access to store, 2015",LACCESS_HHNV15,37781.94306515
+MA,"Low income & low access to store, 2010",LACCESS_LOWI10,264980.8139435
+MA,"Low income & low access to store, 2015",LACCESS_LOWI15,268099.1297951
+MA,"Population, low access to store, 2010",LACCESS_POP10,1860819.661666
+MA,"Population, low access to store, 2015",LACCESS_POP15,1715211.004566
+MD,"Convenience stores, 2011",CONVS11,1818.0
+MD,"Convenience stores, 2016",CONVS16,2045.0
+MD,"Fast-food restaurants, 2011",FFR11,4706.0
+MD,"Fast-food restaurants, 2016",FFR16,5100.0
+MD,"Farmers' markets, 2013",FMRKT13,148.0
+MD,"Farmers' markets, 2018",FMRKT18,161.0
+MD,"Grocery stores, 2011",GROC11,1126.0
+MD,"Grocery stores, 2016",GROC16,1213.0
+MD,"Households, no car & low access to store, 2010",LACCESS_HHNV10,26979.4288372
+MD,"Households, no car & low access to store, 2015",LACCESS_HHNV15,27050.6410223
+MD,"Low income & low access to store, 2010",LACCESS_LOWI10,173287.705708778
+MD,"Low income & low access to store, 2015",LACCESS_LOWI15,195672.531254392
+MD,"Population, low access to store, 2010",LACCESS_POP10,1175439.67253129
+MD,"Population, low access to store, 2015",LACCESS_POP15,1176322.1601630899
+ME,"Convenience stores, 2011",CONVS11,917.0
+ME,"Convenience stores, 2016",CONVS16,884.0
+ME,"Fast-food restaurants, 2011",FFR11,906.0
+ME,"Fast-food restaurants, 2016",FFR16,955.0
+ME,"Farmers' markets, 2013",FMRKT13,92.0
+ME,"Farmers' markets, 2018",FMRKT18,98.0
+ME,"Grocery stores, 2011",GROC11,357.0
+ME,"Grocery stores, 2016",GROC16,366.0
+ME,"Households, no car & low access to store, 2010",LACCESS_HHNV10,14745.8977103
+ME,"Households, no car & low access to store, 2015",LACCESS_HHNV15,15603.6860798
+ME,"Low income & low access to store, 2010",LACCESS_LOWI10,49629.6314234
+ME,"Low income & low access to store, 2015",LACCESS_LOWI15,50916.3329046
+ME,"Population, low access to store, 2010",LACCESS_POP10,181005.0120279
+ME,"Population, low access to store, 2015",LACCESS_POP15,171266.4851559
+MI,"Convenience stores, 2011",CONVS11,4430.0
+MI,"Convenience stores, 2016",CONVS16,4184.0
+MI,"Fast-food restaurants, 2011",FFR11,6464.0
+MI,"Fast-food restaurants, 2016",FFR16,6832.0
+MI,"Farmers' markets, 2013",FMRKT13,329.0
+MI,"Farmers' markets, 2018",FMRKT18,341.0
+MI,"Grocery stores, 2011",GROC11,2036.0
+MI,"Grocery stores, 2016",GROC16,1833.0
+MI,"Households, no car & low access to store, 2010",LACCESS_HHNV10,72031.13357616
+MI,"Households, no car & low access to store, 2015",LACCESS_HHNV15,82073.277992
+MI,"Low income & low access to store, 2010",LACCESS_LOWI10,566021.573953985
+MI,"Low income & low access to store, 2015",LACCESS_LOWI15,622053.828811444
+MI,"Population, low access to store, 2010",LACCESS_POP10,2107829.11726024
+MI,"Population, low access to store, 2015",LACCESS_POP15,2083846.25229937
+MN,"Convenience stores, 2011",CONVS11,2034.0
+MN,"Convenience stores, 2016",CONVS16,2011.0
+MN,"Fast-food restaurants, 2011",FFR11,3273.0
+MN,"Fast-food restaurants, 2016",FFR16,3510.0
+MN,"Farmers' markets, 2013",FMRKT13,186.0
+MN,"Farmers' markets, 2018",FMRKT18,196.0
+MN,"Grocery stores, 2011",GROC11,933.0
+MN,"Grocery stores, 2016",GROC16,946.0
+MN,"Households, no car & low access to store, 2010",LACCESS_HHNV10,38482.71391062
+MN,"Households, no car & low access to store, 2015",LACCESS_HHNV15,39072.27733812
+MN,"Low income & low access to store, 2010",LACCESS_LOWI10,311065.6528646
+MN,"Low income & low access to store, 2015",LACCESS_LOWI15,298128.98021632
+MN,"Population, low access to store, 2010",LACCESS_POP10,1444636.6780073
+MN,"Population, low access to store, 2015",LACCESS_POP15,1309333.708199
+MO,"Convenience stores, 2011",CONVS11,2746.0
+MO,"Convenience stores, 2016",CONVS16,2645.0
+MO,"Fast-food restaurants, 2011",FFR11,4000.0
+MO,"Fast-food restaurants, 2016",FFR16,4153.0
+MO,"Farmers' markets, 2013",FMRKT13,245.0
+MO,"Farmers' markets, 2018",FMRKT18,256.0
+MO,"Grocery stores, 2011",GROC11,1075.0
+MO,"Grocery stores, 2016",GROC16,1061.0
+MO,"Households, no car & low access to store, 2010",LACCESS_HHNV10,47983.23182973
+MO,"Households, no car & low access to store, 2015",LACCESS_HHNV15,52272.53302392
+MO,"Low income & low access to store, 2010",LACCESS_LOWI10,372038.68470105
+MO,"Low income & low access to store, 2015",LACCESS_LOWI15,409163.38596614
+MO,"Population, low access to store, 2010",LACCESS_POP10,1330163.66798816
+MO,"Population, low access to store, 2015",LACCESS_POP15,1321341.97824767
+MS,"Convenience stores, 2011",CONVS11,1997.0
+MS,"Convenience stores, 2016",CONVS16,2069.0
+MS,"Fast-food restaurants, 2011",FFR11,1935.0
+MS,"Fast-food restaurants, 2016",FFR16,2221.0
+MS,"Farmers' markets, 2013",FMRKT13,81.0
+MS,"Farmers' markets, 2018",FMRKT18,82.0
+MS,"Grocery stores, 2011",GROC11,488.0
+MS,"Grocery stores, 2016",GROC16,437.0
+MS,"Households, no car & low access to store, 2010",LACCESS_HHNV10,42038.86599764
+MS,"Households, no car & low access to store, 2015",LACCESS_HHNV15,44371.631580350004
+MS,"Low income & low access to store, 2010",LACCESS_LOWI10,292297.6486312
+MS,"Low income & low access to store, 2015",LACCESS_LOWI15,316296.2288393
+MS,"Population, low access to store, 2010",LACCESS_POP10,658836.9377799
+MS,"Population, low access to store, 2015",LACCESS_POP15,659542.3215577999
+MT,"Convenience stores, 2011",CONVS11,434.0
+MT,"Convenience stores, 2016",CONVS16,426.0
+MT,"Fast-food restaurants, 2011",FFR11,713.0
+MT,"Fast-food restaurants, 2016",FFR16,705.0
+MT,"Farmers' markets, 2013",FMRKT13,67.0
+MT,"Farmers' markets, 2018",FMRKT18,70.0
+MT,"Grocery stores, 2011",GROC11,241.0
+MT,"Grocery stores, 2016",GROC16,252.0
+MT,"Households, no car & low access to store, 2010",LACCESS_HHNV10,6971.946327306
+MT,"Households, no car & low access to store, 2015",LACCESS_HHNV15,6551.974916537
+MT,"Low income & low access to store, 2010",LACCESS_LOWI10,88724.788291
+MT,"Low income & low access to store, 2015",LACCESS_LOWI15,81930.9072685
+MT,"Population, low access to store, 2010",LACCESS_POP10,258991.2080375
+MT,"Population, low access to store, 2015",LACCESS_POP15,232301.4878535
+NC,"Convenience stores, 2011",CONVS11,4894.0
+NC,"Convenience stores, 2016",CONVS16,4865.0
+NC,"Fast-food restaurants, 2011",FFR11,6880.0
+NC,"Fast-food restaurants, 2016",FFR16,7688.0
+NC,"Farmers' markets, 2013",FMRKT13,229.0
+NC,"Farmers' markets, 2018",FMRKT18,253.0
+NC,"Grocery stores, 2011",GROC11,1825.0
+NC,"Grocery stores, 2016",GROC16,1923.0
+NC,"Households, no car & low access to store, 2010",LACCESS_HHNV10,104728.0359376
+NC,"Households, no car & low access to store, 2015",LACCESS_HHNV15,104385.61381691
+NC,"Low income & low access to store, 2010",LACCESS_LOWI10,622382.106288987
+NC,"Low income & low access to store, 2015",LACCESS_LOWI15,642652.345046674
+NC,"Population, low access to store, 2010",LACCESS_POP10,1851518.235250753
+NC,"Population, low access to store, 2015",LACCESS_POP15,1759416.303044597
+ND,"Convenience stores, 2011",CONVS11,325.0
+ND,"Convenience stores, 2016",CONVS16,359.0
+ND,"Fast-food restaurants, 2011",FFR11,411.0
+ND,"Fast-food restaurants, 2016",FFR16,475.0
+ND,"Farmers' markets, 2013",FMRKT13,62.0
+ND,"Farmers' markets, 2018",FMRKT18,65.0
+ND,"Grocery stores, 2011",GROC11,176.0
+ND,"Grocery stores, 2016",GROC16,184.0
+ND,"Households, no car & low access to store, 2010",LACCESS_HHNV10,3944.303843632
+ND,"Households, no car & low access to store, 2015",LACCESS_HHNV15,3350.604979109
+ND,"Low income & low access to store, 2010",LACCESS_LOWI10,60359.8952947
+ND,"Low income & low access to store, 2015",LACCESS_LOWI15,47322.1291951
+ND,"Population, low access to store, 2010",LACCESS_POP10,206150.1563903
+ND,"Population, low access to store, 2015",LACCESS_POP15,175932.8516091
+NE,"Convenience stores, 2011",CONVS11,811.0
+NE,"Convenience stores, 2016",CONVS16,832.0
+NE,"Fast-food restaurants, 2011",FFR11,1250.0
+NE,"Fast-food restaurants, 2016",FFR16,1367.0
+NE,"Farmers' markets, 2013",FMRKT13,93.0
+NE,"Farmers' markets, 2018",FMRKT18,103.0
+NE,"Grocery stores, 2011",GROC11,430.0
+NE,"Grocery stores, 2016",GROC16,420.0
+NE,"Households, no car & low access to store, 2010",LACCESS_HHNV10,8838.410699138
+NE,"Households, no car & low access to store, 2015",LACCESS_HHNV15,7993.2042139039995
+NE,"Low income & low access to store, 2010",LACCESS_LOWI10,119055.41080802001
+NE,"Low income & low access to store, 2015",LACCESS_LOWI15,103099.24358276
+NE,"Population, low access to store, 2010",LACCESS_POP10,421318.3575415
+NE,"Population, low access to store, 2015",LACCESS_POP15,343341.52078317
+NH,"Convenience stores, 2011",CONVS11,720.0
+NH,"Convenience stores, 2016",CONVS16,693.0
+NH,"Fast-food restaurants, 2011",FFR11,1034.0
+NH,"Fast-food restaurants, 2016",FFR16,1008.0
+NH,"Farmers' markets, 2013",FMRKT13,95.0
+NH,"Farmers' markets, 2018",FMRKT18,96.0
+NH,"Grocery stores, 2011",GROC11,260.0
+NH,"Grocery stores, 2016",GROC16,241.0
+NH,"Households, no car & low access to store, 2010",LACCESS_HHNV10,11479.0412501
+NH,"Households, no car & low access to store, 2015",LACCESS_HHNV15,11755.258021
+NH,"Low income & low access to store, 2010",LACCESS_LOWI10,55080.604322980005
+NH,"Low income & low access to store, 2015",LACCESS_LOWI15,65433.8868887
+NH,"Population, low access to store, 2010",LACCESS_POP10,335279.39091210003
+NH,"Population, low access to store, 2015",LACCESS_POP15,342734.1774259
+NJ,"Convenience stores, 2011",CONVS11,2238.0
+NJ,"Convenience stores, 2016",CONVS16,2389.0
+NJ,"Fast-food restaurants, 2011",FFR11,6444.0
+NJ,"Fast-food restaurants, 2016",FFR16,6802.0
+NJ,"Farmers' markets, 2013",FMRKT13,141.0
+NJ,"Farmers' markets, 2018",FMRKT18,150.0
+NJ,"Grocery stores, 2011",GROC11,2552.0
+NJ,"Grocery stores, 2016",GROC16,2558.0
+NJ,"Households, no car & low access to store, 2010",LACCESS_HHNV10,51902.44025459
+NJ,"Households, no car & low access to store, 2015",LACCESS_HHNV15,47206.8502075
+NJ,"Low income & low access to store, 2010",LACCESS_LOWI10,321812.4483703
+NJ,"Low income & low access to store, 2015",LACCESS_LOWI15,320504.5610667
+NJ,"Population, low access to store, 2010",LACCESS_POP10,2210129.618824
+NJ,"Population, low access to store, 2015",LACCESS_POP15,1990449.219513
+NM,"Convenience stores, 2011",CONVS11,788.0
+NM,"Convenience stores, 2016",CONVS16,812.0
+NM,"Fast-food restaurants, 2011",FFR11,1376.0
+NM,"Fast-food restaurants, 2016",FFR16,1459.0
+NM,"Farmers' markets, 2013",FMRKT13,71.0
+NM,"Farmers' markets, 2018",FMRKT18,70.0
+NM,"Grocery stores, 2011",GROC11,255.0
+NM,"Grocery stores, 2016",GROC16,255.0
+NM,"Households, no car & low access to store, 2010",LACCESS_HHNV10,16065.78099509
+NM,"Households, no car & low access to store, 2015",LACCESS_HHNV15,16738.39061644
+NM,"Low income & low access to store, 2010",LACCESS_LOWI10,271207.7280243
+NM,"Low income & low access to store, 2015",LACCESS_LOWI15,289225.3889328
+NM,"Population, low access to store, 2010",LACCESS_POP10,665405.4492829
+NM,"Population, low access to store, 2015",LACCESS_POP15,651576.7645748
+NV,"Convenience stores, 2011",CONVS11,940.0
+NV,"Convenience stores, 2016",CONVS16,1006.0
+NV,"Fast-food restaurants, 2011",FFR11,2118.0
+NV,"Fast-food restaurants, 2016",FFR16,2439.0
+NV,"Farmers' markets, 2013",FMRKT13,45.0
+NV,"Farmers' markets, 2018",FMRKT18,39.0
+NV,"Grocery stores, 2011",GROC11,354.0
+NV,"Grocery stores, 2016",GROC16,313.0
+NV,"Households, no car & low access to store, 2010",LACCESS_HHNV10,8119.56991669
+NV,"Households, no car & low access to store, 2015",LACCESS_HHNV15,10156.61667078
+NV,"Low income & low access to store, 2010",LACCESS_LOWI10,95123.03409
+NV,"Low income & low access to store, 2015",LACCESS_LOWI15,144748.9640532
+NV,"Population, low access to store, 2010",LACCESS_POP10,366266.8788606
+NV,"Population, low access to store, 2015",LACCESS_POP15,412581.3122564
+NY,"Convenience stores, 2011",CONVS11,5356.0
+NY,"Convenience stores, 2016",CONVS16,5979.0
+NY,"Fast-food restaurants, 2011",FFR11,15666.0
+NY,"Fast-food restaurants, 2016",FFR16,16955.0
+NY,"Farmers' markets, 2013",FMRKT13,637.0
+NY,"Farmers' markets, 2018",FMRKT18,673.0
+NY,"Grocery stores, 2011",GROC11,9560.0
+NY,"Grocery stores, 2016",GROC16,10458.0
+NY,"Households, no car & low access to store, 2010",LACCESS_HHNV10,95180.30542196
+NY,"Households, no car & low access to store, 2015",LACCESS_HHNV15,87894.06440331
+NY,"Low income & low access to store, 2010",LACCESS_LOWI10,481881.20196807
+NY,"Low income & low access to store, 2015",LACCESS_LOWI15,443538.90585921
+NY,"Population, low access to store, 2010",LACCESS_POP10,2434772.79771
+NY,"Population, low access to store, 2015",LACCESS_POP15,2157894.9845318
+OH,"Convenience stores, 2011",CONVS11,4625.0
+OH,"Convenience stores, 2016",CONVS16,4670.0
+OH,"Fast-food restaurants, 2011",FFR11,8807.0
+OH,"Fast-food restaurants, 2016",FFR16,9297.0
+OH,"Farmers' markets, 2013",FMRKT13,305.0
+OH,"Farmers' markets, 2018",FMRKT18,335.0
+OH,"Grocery stores, 2011",GROC11,2071.0
+OH,"Grocery stores, 2016",GROC16,2043.0
+OH,"Households, no car & low access to store, 2010",LACCESS_HHNV10,97746.6762779
+OH,"Households, no car & low access to store, 2015",LACCESS_HHNV15,109577.2998287
+OH,"Low income & low access to store, 2010",LACCESS_LOWI10,681167.85500795
+OH,"Low income & low access to store, 2015",LACCESS_LOWI15,781758.72677137
+OH,"Population, low access to store, 2010",LACCESS_POP10,2598512.3344467
+OH,"Population, low access to store, 2015",LACCESS_POP15,2636742.0777332
+OK,"Convenience stores, 2011",CONVS11,1766.0
+OK,"Convenience stores, 2016",CONVS16,1831.0
+OK,"Fast-food restaurants, 2011",FFR11,2535.0
+OK,"Fast-food restaurants, 2016",FFR16,2771.0
+OK,"Farmers' markets, 2013",FMRKT13,68.0
+OK,"Farmers' markets, 2018",FMRKT18,71.0
+OK,"Grocery stores, 2011",GROC11,623.0
+OK,"Grocery stores, 2016",GROC16,612.0
+OK,"Households, no car & low access to store, 2010",LACCESS_HHNV10,32026.281518885
+OK,"Households, no car & low access to store, 2015",LACCESS_HHNV15,31625.933311219
+OK,"Low income & low access to store, 2010",LACCESS_LOWI10,335906.28719208
+OK,"Low income & low access to store, 2015",LACCESS_LOWI15,323295.05934545
+OK,"Population, low access to store, 2010",LACCESS_POP10,916213.2208957
+OK,"Population, low access to store, 2015",LACCESS_POP15,836908.4931358
+OR,"Convenience stores, 2011",CONVS11,1456.0
+OR,"Convenience stores, 2016",CONVS16,1499.0
+OR,"Fast-food restaurants, 2011",FFR11,2814.0
+OR,"Fast-food restaurants, 2016",FFR16,2932.0
+OR,"Farmers' markets, 2013",FMRKT13,173.0
+OR,"Farmers' markets, 2018",FMRKT18,167.0
+OR,"Grocery stores, 2011",GROC11,722.0
+OR,"Grocery stores, 2016",GROC16,741.0
+OR,"Households, no car & low access to store, 2010",LACCESS_HHNV10,18488.40595842
+OR,"Households, no car & low access to store, 2015",LACCESS_HHNV15,18991.44404254
+OR,"Low income & low access to store, 2010",LACCESS_LOWI10,195215.2313779
+OR,"Low income & low access to store, 2015",LACCESS_LOWI15,206231.5294693
+OR,"Population, low access to store, 2010",LACCESS_POP10,651644.2099548
+OR,"Population, low access to store, 2015",LACCESS_POP15,618406.028642
+PA,"Convenience stores, 2011",CONVS11,4153.0
+PA,"Convenience stores, 2016",CONVS16,4353.0
+PA,"Fast-food restaurants, 2011",FFR11,8513.0
+PA,"Fast-food restaurants, 2016",FFR16,9208.0
+PA,"Farmers' markets, 2013",FMRKT13,293.0
+PA,"Farmers' markets, 2018",FMRKT18,307.0
+PA,"Grocery stores, 2011",GROC11,2548.0
+PA,"Grocery stores, 2016",GROC16,2653.0
+PA,"Households, no car & low access to store, 2010",LACCESS_HHNV10,110767.47279857
+PA,"Households, no car & low access to store, 2015",LACCESS_HHNV15,113308.51355891999
+PA,"Low income & low access to store, 2010",LACCESS_LOWI10,568275.20318826
+PA,"Low income & low access to store, 2015",LACCESS_LOWI15,581113.20485441
+PA,"Population, low access to store, 2010",LACCESS_POP10,2647804.3844784
+PA,"Population, low access to store, 2015",LACCESS_POP15,2526791.8894499
+RI,"Convenience stores, 2011",CONVS11,380.0
+RI,"Convenience stores, 2016",CONVS16,366.0
+RI,"Fast-food restaurants, 2011",FFR11,772.0
+RI,"Fast-food restaurants, 2016",FFR16,842.0
+RI,"Farmers' markets, 2013",FMRKT13,57.0
+RI,"Farmers' markets, 2018",FMRKT18,36.0
+RI,"Grocery stores, 2011",GROC11,201.0
+RI,"Grocery stores, 2016",GROC16,205.0
+RI,"Households, no car & low access to store, 2010",LACCESS_HHNV10,8390.9001011
+RI,"Households, no car & low access to store, 2015",LACCESS_HHNV15,6373.0083305
+RI,"Low income & low access to store, 2010",LACCESS_LOWI10,60179.096153000006
+RI,"Low income & low access to store, 2015",LACCESS_LOWI15,49660.733647
+RI,"Population, low access to store, 2010",LACCESS_POP10,275159.66516
+RI,"Population, low access to store, 2015",LACCESS_POP15,234833.29647
+SC,"Convenience stores, 2011",CONVS11,2689.0
+SC,"Convenience stores, 2016",CONVS16,2861.0
+SC,"Fast-food restaurants, 2011",FFR11,3379.0
+SC,"Fast-food restaurants, 2016",FFR16,3488.0
+SC,"Farmers' markets, 2013",FMRKT13,130.0
+SC,"Farmers' markets, 2018",FMRKT18,135.0
+SC,"Grocery stores, 2011",GROC11,873.0
+SC,"Grocery stores, 2016",GROC16,848.0
+SC,"Households, no car & low access to store, 2010",LACCESS_HHNV10,61066.9227887
+SC,"Households, no car & low access to store, 2015",LACCESS_HHNV15,63961.8577941
+SC,"Low income & low access to store, 2010",LACCESS_LOWI10,360395.69891007
+SC,"Low income & low access to store, 2015",LACCESS_LOWI15,422111.00354194
+SC,"Population, low access to store, 2010",LACCESS_POP10,1028913.469355
+SC,"Population, low access to store, 2015",LACCESS_POP15,1054356.7310489
+SD,"Convenience stores, 2011",CONVS11,528.0
+SD,"Convenience stores, 2016",CONVS16,531.0
+SD,"Fast-food restaurants, 2011",FFR11,496.0
+SD,"Fast-food restaurants, 2016",FFR16,555.0
+SD,"Farmers' markets, 2013",FMRKT13,40.0
+SD,"Farmers' markets, 2018",FMRKT18,41.0
+SD,"Grocery stores, 2011",GROC11,191.0
+SD,"Grocery stores, 2016",GROC16,188.0
+SD,"Households, no car & low access to store, 2010",LACCESS_HHNV10,6931.62022943
+SD,"Households, no car & low access to store, 2015",LACCESS_HHNV15,6602.800814605
+SD,"Low income & low access to store, 2010",LACCESS_LOWI10,86909.8304911
+SD,"Low income & low access to store, 2015",LACCESS_LOWI15,85872.23846026
+SD,"Population, low access to store, 2010",LACCESS_POP10,259375.2707178
+SD,"Population, low access to store, 2015",LACCESS_POP15,247263.9380998
+TN,"Convenience stores, 2011",CONVS11,3454.0
+TN,"Convenience stores, 2016",CONVS16,3639.0
+TN,"Fast-food restaurants, 2011",FFR11,4376.0
+TN,"Fast-food restaurants, 2016",FFR16,4930.0
+TN,"Farmers' markets, 2013",FMRKT13,100.0
+TN,"Farmers' markets, 2018",FMRKT18,131.0
+TN,"Grocery stores, 2011",GROC11,1150.0
+TN,"Grocery stores, 2016",GROC16,1072.0
+TN,"Households, no car & low access to store, 2010",LACCESS_HHNV10,62566.52466994
+TN,"Households, no car & low access to store, 2015",LACCESS_HHNV15,66116.49111831
+TN,"Low income & low access to store, 2010",LACCESS_LOWI10,480355.064042141
+TN,"Low income & low access to store, 2015",LACCESS_LOWI15,536899.676424733
+TN,"Population, low access to store, 2010",LACCESS_POP10,1461214.137106738
+TN,"Population, low access to store, 2015",LACCESS_POP15,1492077.637633683
+TX,"Convenience stores, 2011",CONVS11,12220.0
+TX,"Convenience stores, 2016",CONVS16,12620.0
+TX,"Fast-food restaurants, 2011",FFR11,17203.0
+TX,"Fast-food restaurants, 2016",FFR16,20173.0
+TX,"Farmers' markets, 2013",FMRKT13,184.0
+TX,"Farmers' markets, 2018",FMRKT18,218.0
+TX,"Grocery stores, 2011",GROC11,3303.0
+TX,"Grocery stores, 2016",GROC16,3457.0
+TX,"Households, no car & low access to store, 2010",LACCESS_HHNV10,163793.195185697
+TX,"Households, no car & low access to store, 2015",LACCESS_HHNV15,149187.354135694
+TX,"Low income & low access to store, 2010",LACCESS_LOWI10,2339034.4221627
+TX,"Low income & low access to store, 2015",LACCESS_LOWI15,2180417.40752695
+TX,"Population, low access to store, 2010",LACCESS_POP10,6410726.06534891
+TX,"Population, low access to store, 2015",LACCESS_POP15,5726929.74070329
+UT,"Convenience stores, 2011",CONVS11,806.0
+UT,"Convenience stores, 2016",CONVS16,823.0
+UT,"Fast-food restaurants, 2011",FFR11,2047.0
+UT,"Fast-food restaurants, 2016",FFR16,2323.0
+UT,"Farmers' markets, 2013",FMRKT13,40.0
+UT,"Farmers' markets, 2018",FMRKT18,45.0
+UT,"Grocery stores, 2011",GROC11,358.0
+UT,"Grocery stores, 2016",GROC16,376.0
+UT,"Households, no car & low access to store, 2010",LACCESS_HHNV10,6935.665043178
+UT,"Households, no car & low access to store, 2015",LACCESS_HHNV15,8064.50837836
+UT,"Low income & low access to store, 2010",LACCESS_LOWI10,144690.953326558
+UT,"Low income & low access to store, 2015",LACCESS_LOWI15,160709.528653854
+UT,"Population, low access to store, 2010",LACCESS_POP10,555244.0774336
+UT,"Population, low access to store, 2015",LACCESS_POP15,550441.11368897
+VA,"Convenience stores, 2011",CONVS11,3972.0
+VA,"Convenience stores, 2016",CONVS16,3895.0
+VA,"Fast-food restaurants, 2011",FFR11,6070.0
+VA,"Fast-food restaurants, 2016",FFR16,6376.0
+VA,"Farmers' markets, 2013",FMRKT13,237.0
+VA,"Farmers' markets, 2018",FMRKT18,259.0
+VA,"Grocery stores, 2011",GROC11,1472.0
+VA,"Grocery stores, 2016",GROC16,1504.0
+VA,"Households, no car & low access to store, 2010",LACCESS_HHNV10,59509.273270016
+VA,"Households, no car & low access to store, 2015",LACCESS_HHNV15,62544.571592296
+VA,"Low income & low access to store, 2010",LACCESS_LOWI10,295609.687728919
+VA,"Low income & low access to store, 2015",LACCESS_LOWI15,342354.540529028
+VA,"Population, low access to store, 2010",LACCESS_POP10,1426484.290514634
+VA,"Population, low access to store, 2015",LACCESS_POP15,1443895.097956486
+VT,"Convenience stores, 2011",CONVS11,523.0
+VT,"Convenience stores, 2016",CONVS16,471.0
+VT,"Fast-food restaurants, 2011",FFR11,354.0
+VT,"Fast-food restaurants, 2016",FFR16,395.0
+VT,"Farmers' markets, 2013",FMRKT13,98.0
+VT,"Farmers' markets, 2018",FMRKT18,91.0
+VT,"Grocery stores, 2011",GROC11,235.0
+VT,"Grocery stores, 2016",GROC16,213.0
+VT,"Households, no car & low access to store, 2010",LACCESS_HHNV10,6443.6064263299995
+VT,"Households, no car & low access to store, 2015",LACCESS_HHNV15,7176.9757404
+VT,"Low income & low access to store, 2010",LACCESS_LOWI10,19530.85095012
+VT,"Low income & low access to store, 2015",LACCESS_LOWI15,20602.22014285
+VT,"Population, low access to store, 2010",LACCESS_POP10,74195.7595797
+VT,"Population, low access to store, 2015",LACCESS_POP15,71817.30862634
+WA,"Convenience stores, 2011",CONVS11,2257.0
+WA,"Convenience stores, 2016",CONVS16,2247.0
+WA,"Fast-food restaurants, 2011",FFR11,4744.0
+WA,"Fast-food restaurants, 2016",FFR16,4844.0
+WA,"Farmers' markets, 2013",FMRKT13,160.0
+WA,"Farmers' markets, 2018",FMRKT18,170.0
+WA,"Grocery stores, 2011",GROC11,1486.0
+WA,"Grocery stores, 2016",GROC16,1565.0
+WA,"Households, no car & low access to store, 2010",LACCESS_HHNV10,28117.13545258
+WA,"Households, no car & low access to store, 2015",LACCESS_HHNV15,30659.42365302
+WA,"Low income & low access to store, 2010",LACCESS_LOWI10,340445.176905973
+WA,"Low income & low access to store, 2015",LACCESS_LOWI15,372493.386413615
+WA,"Population, low access to store, 2010",LACCESS_POP10,1521224.61898198
+WA,"Population, low access to store, 2015",LACCESS_POP15,1493467.89523478
+WI,"Convenience stores, 2011",CONVS11,2360.0
+WI,"Convenience stores, 2016",CONVS16,2436.0
+WI,"Fast-food restaurants, 2011",FFR11,3357.0
+WI,"Fast-food restaurants, 2016",FFR16,3637.0
+WI,"Farmers' markets, 2013",FMRKT13,288.0
+WI,"Farmers' markets, 2018",FMRKT18,309.0
+WI,"Grocery stores, 2011",GROC11,990.0
+WI,"Grocery stores, 2016",GROC16,1028.0
+WI,"Households, no car & low access to store, 2010",LACCESS_HHNV10,39431.80881298
+WI,"Households, no car & low access to store, 2015",LACCESS_HHNV15,40529.5048789
+WI,"Low income & low access to store, 2010",LACCESS_LOWI10,273638.98600877
+WI,"Low income & low access to store, 2015",LACCESS_LOWI15,271877.04532721
+WI,"Population, low access to store, 2010",LACCESS_POP10,1147055.83018368
+WI,"Population, low access to store, 2015",LACCESS_POP15,1041086.2320926
+WV,"Convenience stores, 2011",CONVS11,1086.0
+WV,"Convenience stores, 2016",CONVS16,1012.0
+WV,"Fast-food restaurants, 2011",FFR11,1262.0
+WV,"Fast-food restaurants, 2016",FFR16,1203.0
+WV,"Farmers' markets, 2013",FMRKT13,91.0
+WV,"Farmers' markets, 2018",FMRKT18,94.0
+WV,"Grocery stores, 2011",GROC11,358.0
+WV,"Grocery stores, 2016",GROC16,328.0
+WV,"Households, no car & low access to store, 2010",LACCESS_HHNV10,35106.08194431
+WV,"Households, no car & low access to store, 2015",LACCESS_HHNV15,33675.70548839
+WV,"Low income & low access to store, 2010",LACCESS_LOWI10,116767.190610411
+WV,"Low income & low access to store, 2015",LACCESS_LOWI15,121410.819763276
+WV,"Population, low access to store, 2010",LACCESS_POP10,322255.81256147
+WV,"Population, low access to store, 2015",LACCESS_POP15,325911.850070808
+WY,"Convenience stores, 2011",CONVS11,273.0
+WY,"Convenience stores, 2016",CONVS16,274.0
+WY,"Fast-food restaurants, 2011",FFR11,389.0
+WY,"Fast-food restaurants, 2016",FFR16,379.0
+WY,"Farmers' markets, 2013",FMRKT13,41.0
+WY,"Farmers' markets, 2018",FMRKT18,49.0
+WY,"Grocery stores, 2011",GROC11,101.0
+WY,"Grocery stores, 2016",GROC16,98.0
+WY,"Households, no car & low access to store, 2010",LACCESS_HHNV10,2691.073425697
+WY,"Households, no car & low access to store, 2015",LACCESS_HHNV15,3809.971622413
+WY,"Low income & low access to store, 2010",LACCESS_LOWI10,42756.7047767
+WY,"Low income & low access to store, 2015",LACCESS_LOWI15,48972.8367947
+WY,"Population, low access to store, 2010",LACCESS_POP10,161021.6419819
+WY,"Population, low access to store, 2015",LACCESS_POP15,171101.9317289
