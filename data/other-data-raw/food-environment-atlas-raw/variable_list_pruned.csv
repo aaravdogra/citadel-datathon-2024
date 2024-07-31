@@ -1,0 +1,80 @@
+﻿Category Name,Category Code,Subcategory Name,Variable Name,Variable Code,Geography,Units
+Access and Proximity to Grocery Store,ACCESS,Overall,"Population, low access to store, 2010",LACCESS_POP10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Overall,"Population, low access to store, 2015",LACCESS_POP15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Low income & low access to store, 2010",LACCESS_LOWI10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Low income & low access to store, 2015",LACCESS_LOWI15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Households, no car & low access to store, 2010",LACCESS_HHNV10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"Households, no car & low access to store, 2015",LACCESS_HHNV15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Household Resources,"SNAP households, low access to store, 2015",LACCESS_SNAP15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Children, low access to store, 2010",LACCESS_CHILD10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Children, low access to store, 2015",LACCESS_CHILD15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Seniors, low access to store, 2010",LACCESS_SENIORS10,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Seniors, low access to store, 2015",LACCESS_SENIORS15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"White, low access to store, 2015",LACCESS_WHITE15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Black, low access to store, 2015",LACCESS_BLACK15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Hispanic ethnicity, low access to store, 2015",LACCESS_HISP15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Asian, low access to store, 2015",LACCESS_NHASIAN15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"American Indian or Alaska Native, low access to store, 2015",LACCESS_NHNA15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Hawaiian or Pacific Islander, low access to store, 2015",LACCESS_NHPI15,CNTY10,Count
+Access and Proximity to Grocery Store,ACCESS,Demographics,"Multiracial, low access to store, 2015",LACCESS_MULTIR15,CNTY10,Count
+Store Availability,STORES,Grocery,"Grocery stores, 2011",GROC11,CNTY10,Count
+Store Availability,STORES,Grocery,"Grocery stores, 2016",GROC16,CNTY10,Count
+Store Availability,STORES,Grocery,"Grocery stores/1,000 pop, 2011",GROCPTH11,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Grocery,"Grocery stores/1,000 pop, 2016",GROCPTH16,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Supercenters,"Supercenters & club stores, 2011",SUPERC11,CNTY10,Count
+Store Availability,STORES,Supercenters,"Supercenters & club stores, 2016",SUPERC16,CNTY10,Count
+Store Availability,STORES,Supercenters,"Supercenters & club stores/1,000 pop, 2011",SUPERCPTH11,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Supercenters,"Supercenters & club stores/1,000 pop, 2016",SUPERCPTH16,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Convenience,"Convenience stores, 2011",CONVS11,CNTY10,Count
+Store Availability,STORES,Convenience,"Convenience stores, 2016",CONVS16,CNTY10,Count
+Store Availability,STORES,Convenience,"Convenience stores/1,000 pop, 2011",CONVSPTH11,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Convenience,"Convenience stores/1,000 pop, 2016",CONVSPTH16,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Specialized,"Specialized food stores, 2011",SPECS11,CNTY10,Count
+Store Availability,STORES,Specialized,"Specialized food stores, 2016",SPECS16,CNTY10,Count
+Store Availability,STORES,Specialized,"Specialized food stores/1,000 pop, 2011",SPECSPTH11,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,Specialized,"Specialized food stores/1,000 pop, 2016",SPECSPTH16,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,SNAP-authorized,"SNAP-authorized stores, 2012",SNAPS12,CNTY10,Count
+Store Availability,STORES,SNAP-authorized,"SNAP-authorized stores, 2017",SNAPS17,CNTY10,Count
+Store Availability,STORES,SNAP-authorized,"SNAP-authorized stores/1,000 pop, 2012",SNAPSPTH12,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,SNAP-authorized,"SNAP-authorized stores/1,000 pop, 2017",SNAPSPTH17,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,WIC-authorized,"WIC-authorized stores, 2011",WICS11,CNTY10,Count
+Store Availability,STORES,WIC-authorized,"WIC-authorized stores, 2016",WICS16,CNTY10,Count
+Store Availability,STORES,WIC-authorized,"WIC-authorized stores/1,000 pop, 2011",WICSPTH11,CNTY10,"# per 1,000 pop"
+Store Availability,STORES,WIC-authorized,"WIC-authorized stores/1,000 pop, 2016",WICSPTH16,CNTY10,"# per 1,000 pop"
+Restaurant Availability and Expenditures,RESTAURANTS,Fast-food,"Fast-food restaurants, 2011",FFR11,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Fast-food,"Fast-food restaurants, 2016",FFR16,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Fast-food,"Fast-food restaurants/1,000 pop, 2011",FFRPTH11,CNTY10,"# per 1,000 pop"
+Restaurant Availability and Expenditures,RESTAURANTS,Fast-food,"Fast-food restaurants/1,000 pop, 2016",FFRPTH16,CNTY10,"# per 1,000 pop"
+Restaurant Availability and Expenditures,RESTAURANTS,Full-service,"Full-service restaurants, 2011",FSR11,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Full-service,"Full-service restaurants, 2016",FSR16,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Full-service,"Full-service restaurants/1,000 pop, 2011",FSRPTH11,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Full-service,"Full-service restaurants/1,000 pop, 2016",FSRPTH16,CNTY10,Count
+Restaurant Availability and Expenditures,RESTAURANTS,Expenditures,"Expenditures per capita, fast food, 2007*",PC_FFRSALES07,CNTY10,Dollars
+Restaurant Availability and Expenditures,RESTAURANTS,Expenditures,"Expenditures per capita, fast food, 2012*",PC_FFRSALES12,CNTY10,Dollars
+Restaurant Availability and Expenditures,RESTAURANTS,Expenditures,"Expenditures per capita, restaurants, 2007*",PC_FSRSALES07,CNTY10,Dollars
+Restaurant Availability and Expenditures,RESTAURANTS,Expenditures,"Expenditures per capita, restaurants, 2012*",PC_FSRSALES12,CNTY10,Dollars
+Food Assistance,ASSISTANCE,Non-USDA,"Food Banks, 2018",FOOD_BANKS18,CNTY10,Count
+Local Foods,LOCAL,Farmers' Markets,"Farmers' markets, 2013",FMRKT13,CNTY10,Count
+Local Foods,LOCAL,Farmers' Markets,"Farmers' markets, 2018",FMRKT18,CNTY10,Count
+Local Foods,LOCAL,Farmers' Markets,"Farmers' markets/1,000 pop, 2013",FMRKTPTH13,CNTY10,"# per 1,000 pop"
+Local Foods,LOCAL,Farmers' Markets,"Farmers' markets/1,000 pop, 2018",FMRKTPTH18,CNTY10,"# per 1,000 pop"
+Local Foods,LOCAL,Farmers' Markets,"Farmers' markets that report selling fruit & vegetables, 2018",FMRKT_FRVEG18,CNTY10,Count
+Local Foods,LOCAL,Farmers' Markets,"Farmers' markets that report selling animal products, 2018",FMRKT_ANMLPROD18,CNTY10,Count
+Local Foods,LOCAL,Farmers' Markets,"Farmers' markets that report selling baked/prepared food products, 2018",FMRKT_BAKED18,CNTY10,Count
+Health and Physical Activity,HEALTH,Health,"Adult diabetes rate, 2008",PCT_DIABETES_ADULTS08,CNTY10,Percent
+Health and Physical Activity,HEALTH,Health,"Adult diabetes rate, 2013",PCT_DIABETES_ADULTS13,CNTY10,Percent
+Health and Physical Activity,HEALTH,Health,"Adult obesity rate, 2012*",PCT_OBESE_ADULTS12,CNTY10,Percent
+Health and Physical Activity,HEALTH,Health,"Adult obesity rate, 2017*",PCT_OBESE_ADULTS17,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% White, 2010",PCT_NHWHITE10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% Black, 2010",PCT_NHBLACK10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% Hispanic, 2010",PCT_HISP10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% Asian, 2010",PCT_NHASIAN10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% American Indian or Alaska Native, 2010",PCT_NHNA10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% Hawaiian or Pacific Islander, 2010",PCT_NHPI10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% Population 65 years or older, 2010",PCT_65OLDER10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Race & Age,"% Population under age 18, 2010",PCT_18YOUNGER10,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Income Level,"Median household income, 2015",MEDHHINC15,CNTY10,Dollars
+Socioeconomic Characteristics,SOCIOECONOMIC,Income Level,"Poverty rate, 2015",POVRATE15,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Income Level,"Persistent-poverty counties, 2010",PERPOV10,CNTY10,Legend
+Socioeconomic Characteristics,SOCIOECONOMIC,Income Level,"Child poverty rate, 2015",CHILDPOVRATE15,CNTY10,Percent
+Socioeconomic Characteristics,SOCIOECONOMIC,Income Level,"Persistent-child-poverty counties, 2010",PERCHLDPOV10,CNTY10,Legend
